@@ -1,9 +1,9 @@
 <?php
 
-$host = "54.158.145.56";
-$dbname = "groupD";
-$dbuser = "groupD";
-$dbpass = "V6%kJ1sL8@wB";
+$host = "";
+$dbname = "";
+$dbuser = "";
+$dbpass = "";
 
 try {
 
