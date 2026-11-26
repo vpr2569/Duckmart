@@ -1,66 +1,34 @@
 # Website Page Designs
 ## Login Page
 Contains input forms for the username and password so users that already have an account can log in. Users without an account can select the "create new" button to go to the create account page.
-![Login Page](Page Designs/Login_Page.png)
+![Login Page](PageDesigns/Login_Page.png)
 
+## Account Creation Page
+Has input forms for name, username, email, address, and password. Once an account has been created, users can return to the login page and log in.
 
+## Home/Search Products
+Allows customers to browse DuckMart's available grocery items by category and search for specific products. Each product displays an image, name, price, and can be clicked on to view more details. There are also options to go to my account or contact us.
 
-
-## Administrator Dashboard
-Home page that administrators land on after inputting their username and password.
-![Admin Home Page](PageDesigns/Admin_Dashboard.png)
-
-## Administrator Edit Products
-Allows administrators to view, edit, and delete product details such as stock, price, and image.
-![Admin Edit Products](PageDesigns/Admin_ManageProducts.png)
-
-## Administrator Manage Orders
-Allows administrators to view, edit, and delete order details.
-![Admin Manage Orders](PageDesigns/Admin_ManageOrders.png)
-
-## Administrator Manage Customers
-Allows administrators to view, edit, and delete customers.
-![Admin Manage Customers](PageDesigns/Admin_ManageCustomers.png)
-
-
-## Product Details Page
-
-This page shows a selected DuckMart grocery product, including its image, price, description, and availability. Customers can select a quantity and add the product to their shopping cart.
-
-![Product Details Page](PageDesigns/Product_Details.png)
-
-## Home Page
-
-Introduces customers to DuckMart Grocery and highlights featured products, deals, and grocery categories. Provides navigation to product browsing and other shopping features.
-
-![Home Page](PageDesigns/Home_Page.png)
-
-## Profile Page
-Displays User data that can be changed, such as Name, Username, and address.
-![Profile Page](PageDesigns/Profile_Page.png)
-
-## Store Location
-Displays a picture of a map with a location icon for the store address.
-![Store Location](PageDesigns/Store_Location.png)
-
+## Product Details/Reserve Products
+Shows a few additional details about the product and includes an "add to cart" button.
 
 ## Contact Us
 Displays data to contact the store, such as email and phone number.
-![Contact Us](PageDesigns/Contact_Us.png)
 
-## Product Search Page
+## My Account
+This page will appear mostly the same for all customers, employees, and admin. They can change some of this data. Employees and admin will have a button to go to the employee dashboard.
 
-Allows customers to browse DuckMart's available grocery items by category and search for specific products. Each product displays an image, name, price, and a button to view more details.
+## Employee Dashboard
+The landing page for employees. Appears with a custom greeting for the employee name and a closer look at the cute mascot.
 
-![Product Search Page](PageDesigns/Product_Search.png)
+## Manage All Products
+This page will have an "add new" button to create a new product.
 
-## Order History Page
-Allows customers to review previous grocery orders, check order statuses, view details, and reorder items.
+## Edit/Remove Individual Products
+This page will appear the same for creating a new product, but with all fields already empty.
 
-![Order History Page](PageDesigns/Order_History.png)
+## Manage Users
+This page only shows up on the employee dashboard if you are logged in to an account with admin privileges. It shows all users that have accounts and allows you to click on them to edit individual users.
 
-## Reserve Food Page
-This page lets customers browse grocery products and select the items they want to order or reserve before visiting the store or arranging pickup.
-
-![Reserve Food Page](PageDesigns/Reserve_Food.png)  
-
+## Edit/Remove Individual Users
+This page shows the details for the user's account including username, email, and address. There is an option to give a user employee status, or even admin status. Admin can only access this page. 
