@@ -1,4 +1,10 @@
 # Website Page Designs
+## Login Page
+Contains input forms for the username and password so users that already have an account can log in. Users without an account can select the "create new" button to go to the create account page.
+![Login Page](Page Designs/Login_Page.png)
+
+
+
 
 ## Administrator Dashboard
 Home page that administrators land on after inputting their username and password.
@@ -28,11 +34,6 @@ This page shows a selected DuckMart grocery product, including its image, price,
 Introduces customers to DuckMart Grocery and highlights featured products, deals, and grocery categories. Provides navigation to product browsing and other shopping features.
 
 ![Home Page](PageDesigns/Home_Page.png)
-
-## Login Page
-Contains input forms for the username and password to login.
-![Login Page](PageDesigns/Login_Page.png)
-
 
 ## Profile Page
 Displays User data that can be changed, such as Name, Username, and address.
